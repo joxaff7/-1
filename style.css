@@ -1,0 +1,89 @@
+.siu{
+    background-color: rgb(192, 169, 237);
+    text-align: center;
+    border-radius: 30px;
+    border: 2px red solid;
+}
+
+i{
+color: rgb(119, 7, 9);
+}
+
+h2{
+    color: green;
+}
+
+.faktlar{
+    text-align: center;
+    background-color: yellow
+}
+
+.korish{
+    text-align: center;
+    background-color: yellow;
+}
+
+.input{
+    width: 1000px;
+    height: 80px;
+}
+
+.text{
+    width: 20px;
+}
+
+.jonatish{
+    text-align: left;
+    background-color: rgb(21, 21, 212);
+    border: 1px red solid;
+}
+.messi{
+    width: 300px;
+    height: 80px;
+    background-color: rgb(76, 76, 228);
+}
+
+.jadval{
+    background-color: yellow;
+    text-align: center;
+}
+
+th,td{
+border: 1px rgb(240, 234, 234) solid;
+text-align: center;
+}
+
+table{
+    border-collapse: collapse;
+    width: 900px;
+}
+
+.green{
+    background-color: green;
+    color: white;
+}
+
+.qf{
+    background-color: blue;
+    color: white;
+}
+
+.ars{
+    background-color: red;
+    color: white;
+}
+
+.soatni{
+    background-color: black;
+    color: white;
+}
+
+.Fil{
+    background-color: red;
+    color: white;
+}
+
+.suv{
+    background-color: black;
+    color: white;
+}
